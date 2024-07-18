@@ -17,10 +17,12 @@ During the EDA process, I undertook the following steps:
 
 ### Highlights of the Task:
 Ranking of countries by male and female populations in 2022.
-![image](https://github.com/tejgit8102/PRODIGY_DS_01/assets/166322007/d17d45dc-1644-44c4-9cf6-34660e385d27)
+![image](https://github.com/user-attachments/assets/1b0231ea-1a5b-42d3-89d2-a278dd364449)
+
 
 Countries with the lowest male and female populations in 2022.
-![image](https://github.com/tejgit8102/PRODIGY_DS_01/assets/166322007/ebb028c2-44f8-4b8a-b769-2f4a76209424)
+![image](https://github.com/user-attachments/assets/b015b02a-a002-4797-aba7-bb2c8aac1177)
+
 
 
 
